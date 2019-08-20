@@ -37,114 +37,115 @@ https://www.coursera.org/specializations/tensorflow-in-practice
 
 ## 课程打卡
 <a name="index1"></a>
-1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
+#### [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
 
-   1. [A New Programming Paradigm](https://www.coursera.org/learn/introduction-tensorflow/home/week/1)
+1. [A New Programming Paradigm](https://www.coursera.org/learn/introduction-tensorflow/home/week/1)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
 
-   2. [Introduction to Computer Vision](https://www.coursera.org/learn/introduction-tensorflow/home/week/2)
+2. [Introduction to Computer Vision](https://www.coursera.org/learn/introduction-tensorflow/home/week/2)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
 
-   3. [Enhancing Vision with Convolutional Neural Networks](https://www.coursera.org/learn/introduction-tensorflow/home/week/3)
+3. [Enhancing Vision with Convolutional Neural Networks](https://www.coursera.org/learn/introduction-tensorflow/home/week/3)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
 
-   4. [Using Real-world Images](https://www.coursera.org/learn/introduction-tensorflow/home/week/4)
+4. [Using Real-world Images](https://www.coursera.org/learn/introduction-tensorflow/home/week/4)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
-      
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
+   
 
 <a name="index2"></a>
-2. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 
-   1. [Exploring a Larger Dataset](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/week/1)
+#### [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
-      
-   2. [Augmentation: A technique to avoid overfitting](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/week/2)
+1. [Exploring a Larger Dataset](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/week/1)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
-      
-   3. [Transfer Learning](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/week/3)
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
+   
+2. [Augmentation: A technique to avoid overfitting](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/week/2)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
-      
-   4. [Multiclass Classifications](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/week/4)
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
+   
+3. [Transfer Learning](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/week/3)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
-      
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
+   
+4. [Multiclass Classifications](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/week/4)
+
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
+   
 
 <a name="index3"></a>
-3. [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
+#### [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
 
-   1. [Sentiment in text](https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/1)
+1. [Sentiment in text](https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/1)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
-      
-   2. [Word Embeddings](https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/2)
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
+   
+2. [Word Embeddings](https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/2)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
-      
-   3. [Sequence models](https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/3)
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
+   
+3. [Sequence models](https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/3)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
-      
-   4. [Sequence models and literature](https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/4)
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
+   
+4. [Sequence models and literature](https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/4)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
-      
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
+   
 
 <a name="index4"></a>
 
-4. [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
+#### [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 
-   1. [Sequences and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/home/week/1)
+1. [Sequences and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/home/week/1)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
-      
-   2. [Deep Neural Networks for Time Series](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/home/week/2)
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
+   
+2. [Deep Neural Networks for Time Series](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/home/week/2)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
-      
-   3. [Recurrent Neural Networks for Time Series](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/home/week/3)
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
+   
+3. [Recurrent Neural Networks for Time Series](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/home/week/3)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
-      
-   4. [Real-world time series data](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/home/week/4)
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
+   
+4. [Real-world time series data](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/home/week/4)
 
-      | 打卡人 | 打卡日期 | 作业 | 笔记 |
-      | ------ | -------- | ---- | ---- |
-      |        |          |      |      |
-      
+   | 打卡人 | 打卡日期 | 作业 | 笔记 |
+   | ------ | -------- | ---- | ---- |
+   |        |          |      |      |
+   
