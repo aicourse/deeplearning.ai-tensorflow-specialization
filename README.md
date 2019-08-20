@@ -37,7 +37,7 @@ https://www.coursera.org/specializations/tensorflow-in-practice
 
 ## 课程打卡
 <a name="index1"></a>
-#### [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
+### [Lesson 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
 
 1. [A New Programming Paradigm](https://www.coursera.org/learn/introduction-tensorflow/home/week/1)
 
@@ -66,7 +66,7 @@ https://www.coursera.org/specializations/tensorflow-in-practice
 
 <a name="index2"></a>
 
-#### [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+### [Lesson 2: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 
 1. [Exploring a Larger Dataset](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/week/1)
 
@@ -94,7 +94,7 @@ https://www.coursera.org/specializations/tensorflow-in-practice
    
 
 <a name="index3"></a>
-#### [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
+### [Lesson 3: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
 
 1. [Sentiment in text](https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/1)
 
@@ -123,7 +123,7 @@ https://www.coursera.org/specializations/tensorflow-in-practice
 
 <a name="index4"></a>
 
-#### [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
+### [Lesson 4: Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 
 1. [Sequences and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/home/week/1)
 
