@@ -12,6 +12,14 @@ AI is already transforming industries across the world. After finishing this Spe
 
 https://www.coursera.org/specializations/tensorflow-in-practice
 
+## 课程讨论
+
+1. 欢迎扫码进入微信群讨论
+
+   <image width=50% src="asset/wechat_invite.jpg"></image>
+
+2. 欢迎提issue，如果微信邀请码失效请提issue
+
 ## 课程目录
 
 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](#index1)
