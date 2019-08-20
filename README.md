@@ -16,7 +16,7 @@ https://www.coursera.org/specializations/tensorflow-in-practice
 
 1. 欢迎扫码进入微信群讨论
 
-   <image width=50% src="asset/wechat_invite.jpg"></image>
+   <image width=30% src="asset/wechat_invite.jpg"></image>
 
 2. 欢迎提issue，如果微信邀请码失效请提issue
 
